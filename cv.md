@@ -32,7 +32,8 @@
       return s;
     }
   return result;
-}```
+}
+```
 
 * **Highest and Lowest**
 ```function highAndLow(numbers){
@@ -45,7 +46,8 @@
   const min = srt[srt.length - 1];
    
   return max + " " + min;
-}```
+}
+```
 
 ### Experience:
 * **University Projects**
